@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋 My name is Dmitrii, I'm a software developer
 
-<!--
-**karmann-dm/karmann-dm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Living in: 🇩🇪 (Munich)
 
-Here are some ideas to get you started:
+Was born in: 🇷🇺 (far-far East)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working at: Celonis SE
+
+Interested in:
+- building highload and fault-tolerant systems
+- JAVA JAVA JAVA (second word read as kotlin pls and the third one as scala)
+- <s>screwing up your productional kubernetes cluster</s>
+
+Especially in:
+- insides of Spring Framework
+- creating of gradle plugins for everything
+- full-text search
+- NLP
+- devops staff (like how to build the CI/CD system that can literally kill you but do it fully-automated)
+- not only writing but reading code as well
+- and not only reading but also speaking about it
