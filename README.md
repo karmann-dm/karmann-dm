@@ -1,10 +1,8 @@
-### Hi there 👋 My name is Dmitrii, I'm a software developer
+### Hi there 👋 My name is Dimi, I'm a software developer
 
 Living in: 🇩🇪 (Munich)
 
-Was born in: 🇷🇺 (far-far East)
-
-Working at: Celonis SE
+Working at: Celonis
 
 Interested in:
 - building highload and fault-tolerant systems
