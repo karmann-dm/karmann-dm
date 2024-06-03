@@ -6,10 +6,9 @@ Working at: Celonis
 
 Interested in:
 - building highload and fault-tolerant systems
-- JAVA JAVA JAVA (second word read as kotlin pls and the third one as scala)
-- <s>screwing up your productional kubernetes cluster</s>
 
 Especially in:
+- insides of ORMs
 - insides of Spring Framework
 - creating of gradle plugins for everything
 - full-text search
