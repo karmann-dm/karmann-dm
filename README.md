@@ -13,6 +13,6 @@ Especially in:
 - creating of gradle plugins for everything
 - full-text search
 - NLP
-- devops staff (like how to build the CI/CD system that can literally kill you but do it fully-automated)
+- devops stuff (like how to build the CI/CD system that can literally kill you but do it fully-automated)
 - not only writing but reading code as well
-- and not only reading but also speaking about it
+- and not only reading but also chatting about it
