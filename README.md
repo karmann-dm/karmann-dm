@@ -1,18 +1,14 @@
-### Hi there 👋 My name is Dimi, I'm a software developer
+### Hi there 👋 My name is Dimi, I'm a software engineer
 
 Living in: 🇩🇪 (Munich)
 
 Working at: Celonis
 
 Interested in:
-- building highload and fault-tolerant systems
+- building highload and fault-tolerant systems, focusing on persistence workloads
 
 Especially in:
-- insides of ORMs
-- insides of Spring Framework
-- creating of gradle plugins for everything
-- full-text search
-- NLP
-- devops stuff (like how to build the CI/CD system that can literally kill you but do it fully-automated)
-- not only writing but reading code as well
-- and not only reading but also chatting about it
+- PostgreSQL, infra as a code, platform engineering
+- Working with people and getting things done
+- scalable and cloud native solutions supporting the database-related workload at the enterprise scale
+
