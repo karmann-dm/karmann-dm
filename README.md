@@ -2,13 +2,10 @@
 
 Living in: 🇩🇪 (Munich)
 
-Working at: Celonis
+Currently working at Celonis and building high-load and fault-tolerant systems, focusing on persistence workloads.
 
-Interested in:
-- building highload and fault-tolerant systems, focusing on persistence workloads
-
-Especially in:
-- PostgreSQL, infra as a code, platform engineering
-- Working with people and getting things done
-- scalable and cloud native solutions supporting the database-related workload at the enterprise scale
+What I focus on now:
+- PostgreSQL, infra as a code, platform engineering.
+- Working with people and getting things done.
+- Scalable and cloud native solutions supporting the database-related workload at the enterprise scale.
 
